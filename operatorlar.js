@@ -20,14 +20,16 @@ console.log(dencr);
 //&& = va (hammasi true bo'lishi kerak)
 //|| = yoki(hammasi false bo'lishi kerak)
 
+//  && bitta false bo'lsa ham false qaytaradi
 const isAge = true;
 const isClose = false;
 const isChecked = false;
 
 console.log(isAge && isClose && isChecked);
 
-const isAg = false;
+//  || bitta true bo'lsa ham true qaytaradi
+const isAg = true;
 const isClos = false;
 const isChecke = false;
 
-console.log(isAg && isClos && isChecke);
+console.log(isAg || isClos || isChecke);
