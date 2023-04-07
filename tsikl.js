@@ -1,4 +1,4 @@
-let num = 10
+let num = 10;
 // first
 
 // while (num <= 20) {
@@ -19,8 +19,7 @@ let num = 10
 //         // break
 //         continue;
 //     }
-    // console.log(i);
+// console.log(i);
 // }
 
-const matem = 5
-console.log( matem + 5);
+// s

@@ -1,4 +1,4 @@
-// const numberofSeries = +prompt("nechta serial ko'rdingiz?", "");
+// // const numberofSeries = +prompt("nechta serial ko'rdingiz?", "");
 
 // const seriesDB = {
 //   count: numberofSeries,
@@ -16,4 +16,5 @@
 // seriesDB.series[a] = b;
 // seriesDB.series[c] = d;
 
+// for (let i =0; i <2; i++)
 // console.log(seriesDB);
